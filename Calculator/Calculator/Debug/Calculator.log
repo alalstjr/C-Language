@@ -1,0 +1,5 @@
+﻿  Main.c
+e:\학교\자료구조\calculator\calculator\main.c(40): warning C4047: 'return': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+e:\학교\자료구조\calculator\calculator\main.c(199): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\학교\자료구조\calculator\calculator\main.c(133): warning C4172: 지역 변수 또는 임시: res의 주소를 반환하고 있습니다.
+  Calculator.vcxproj -> E:\학교\자료구조\Calculator\Debug\Calculator.exe
